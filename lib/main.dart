@@ -12,7 +12,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'MNML',
+      title: 'E-Commerce',
       theme: ThemeData(
         useMaterial3: true,
       ),

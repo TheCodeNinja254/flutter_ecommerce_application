@@ -12,7 +12,7 @@ class _CategoryDisplayScreenState extends State<CategoryDisplayScreen> {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('Categry Screen'),
+        child: Text('Category Screen'),
       ),
     );
   }
